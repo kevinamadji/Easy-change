@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css?family=Aclonica|Aladin'); /*POLICE LEGEND*/
+
+
+body
+{
+    background-image: url(../imgs/wall-2093277_1920.jpg);
+    /*background-color: whitesmoke;*/
+}
+
+
+.document .row h3
+{
+    color: whitesmoke;
+    text-shadow: 2px 2px 8px black;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: -10%;    
+}
+
+.document h1
+{
+    transform: rotate(-90deg);
+    float: left;
+    font-size: 5em;
+    color: #FCA437;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px black;
+    font-family: 'Aclonica', sans-serif;
+    margin-top: 25%;
+    position: absolute;
+}
+
+
+
+.document .row .material-icons:hover
+{
+  animation: bounce2 2s ease infinite;
+}
+@keyframes bounce2 {
+    0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+    40% {transform: translateY(-30px);}
+    60% {transform: translateY(-15px);}
+}
+
+

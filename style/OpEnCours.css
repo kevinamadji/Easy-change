@@ -1,0 +1,17 @@
+.table
+{
+	padding: 15%;
+	margin-left: 25%;
+	margin-top: -8%;
+}
+
+.table table th
+{
+	margin-right: 5%;
+}
+
+.table h1
+{
+	color: #17C0FF;
+	text-shadow: 2px 2px 4px black;
+}

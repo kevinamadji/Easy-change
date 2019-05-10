@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css?family=Aclonica|Aladin'); /*POLICE LEGEND*/
+
+
+body
+{
+    background-image: url(../imgs/wall-2093277_1920.jpg);
+    /*background-color: whitesmoke;*/
+}
+
+.global-compte
+{
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 2px ridge #FACB28;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding-top: 5%;
+    margin-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+
+.global-compte .row
+{
+    border-bottom: 2px ridge whitesmoke;
+}
+
+.global-compte .container .row a
+{
+    float: right;
+    font-size: 3px;
+    margin-top: 6px;
+    color: #FACB28;
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+.global-compte .container .row p
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: ;
+    margin-top: 6px;
+
+}
+
+.global-compte .container input
+{
+    float: right;
+    margin-top: 5%;
+}
+
+.global-compte .col-lg-5
+{
+    font-size: 20px;
+}

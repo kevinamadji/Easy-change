@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css?family=Aclonica|Aladin'); /*POLICE LEGEND*/
+
+
+body
+{
+    background-image: url("../imgs/wall-2093277_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-color: whitesmoke;*/
+}
+
+.container
+{
+    padding: 5%;
+}
+
+.container h1
+{
+    color: black;
+    font-family: 'Aclonica', sans-serif;
+}
+
+.container a
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.slogan
+{
+    margin-top: 200px;
+    font-size: 3em;
+    text-align: center;
+    border: 1px ridge #FCA437;
+    background-color: rgba(0, 0, 0, 0.5);
+    /*background-color: #EE8E15;*/
+    padding: 12px;
+    color: whitesmoke;
+}
+/*.navbar
+{
+    border-bottom: 2px black ridge;
+    box-shadow: 2px 2px 4px black;
+}
+
+.navbar-light .navbar-nav .nav-item .nav-link
+{
+    font-size: 1.5em;
+    color: black;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-item .nav-link:hover
+{
+    color: #FACB28; 
+}
+
+.navbar .btn1
+{
+    margin-right: 5px;
+}*/     
+
+.nav-item img
+{
+    width: 100px;
+    border-radius: 100%;
+}
+
+
+.resp a
+{
+    color: black;
+}
+
+
+
+.resp h1
+{
+    color: #FCA437;
+}
+
+.resp .btn
+{
+    background-color: #FCA437;
+    border-color: transparent;
+}

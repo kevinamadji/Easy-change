@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script'); /*font items*/
+
+
+
+.navbar
+{
+    border-bottom: 2px #FCA437 ridge;
+    box-shadow: 2px 2px 4px black;
+}
+
+.nav .navbar-light .navbar-nav .nav-item .nav-link
+{
+    font-size: 1.5em;
+    color:  #FCA437;
+    font-weight: bold;
+    font-family: 'Aclonica', sans-serif;
+    margin-top: 10%;
+    /*font-family: 'Kaushan Script', cursive;*/
+
+}
+
+
+
+.navbar-light .navbar-nav .nav-item .nav-link:hover
+{
+    color: #FACB28; 
+}
+
+.navbar .btn1
+{
+    margin-right: 5px;
+}
+
+.navbar .dropdown
+{
+	margin-left: 5%;
+}
+
+.nav-item img
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    margin-left: 250%;
+}
